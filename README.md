@@ -19,8 +19,7 @@ These commonly used keyboard shortcuts will be enabled/changed:
 (gtk_accel_path "<Actions>/mail/mail-flag-for-followup" "asterisk")
 (gtk_accel_path "<Actions>/mail-convert-any/mail-convert-to-task" "<Shift>t")
 
-(gtk_accel_path "<Actions>/mail/format-numbered-list" "<Primary><Shift>7")
-(gtk_accel_path "<Actions>/mail/format-bulleted-list" "<Primary><Shift>8")
+(gtk_accel_path "<Actions>/shell/search-quick" "slash")
 
 (gtk_accel_path "<Actions>/mail/mail-threads-expand-all" "semicolon")
 (gtk_accel_path "<Actions>/mail/mail-threads-collapse-all" "colon")
