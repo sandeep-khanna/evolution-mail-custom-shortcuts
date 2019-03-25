@@ -67,7 +67,7 @@
 ; (gtk_accel_path "<Actions>/shell/show-taskbar" "")
 ; (gtk_accel_path "<Actions>/http/http-open" "")
 ; (gtk_accel_path "<Actions>/mail/mail-find" "<Primary><Shift>f")
-; (gtk_accel_path "<Actions>/shell/search-quick" "")
+(gtk_accel_path "<Actions>/shell/search-quick" "slash")
 ; (gtk_accel_path "<Actions>/mailing-list/mailing-list-help" "")
 ; (gtk_accel_path "<Actions>/e-mail-display-attachment-inline/show" "")
 ; (gtk_accel_path "<Actions>/standard/save-as" "")
