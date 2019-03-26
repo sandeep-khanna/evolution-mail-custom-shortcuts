@@ -18,6 +18,7 @@ These commonly used keyboard shortcuts will be enabled/changed:
 (gtk_accel_path "<Actions>/new-item/mail-message-new" "<Primary>n")
 (gtk_accel_path "<Actions>/mail/mail-flag-for-followup" "asterisk")
 (gtk_accel_path "<Actions>/mail-convert-any/mail-convert-to-task" "<Shift>t")
+(gtk_accel_path "<Actions>/mail/mail-delete" "numbersign")
 
 (gtk_accel_path "<Actions>/shell/search-quick" "slash")
 
