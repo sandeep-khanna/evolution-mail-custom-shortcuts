@@ -225,7 +225,7 @@
 ; (gtk_accel_path "<Actions>/mail/mail-mark-ignore-thread-whole" "")
 ; (gtk_accel_path "<Actions>/mail/mail-folder-new" "")
 ; (gtk_accel_path "<Actions>/mail/mail-encoding-menu" "")
-; (gtk_accel_path "<Actions>/mail/mail-delete" "<Primary>d")
+(gtk_accel_path "<Actions>/mail/mail-delete" "numbersign")
 ; (gtk_accel_path "<Actions>/mail/mail-filter-rule-for-sender" "")
 ; (gtk_accel_path "<Actions>/mail/mail-folder-mark-all-as-read" "<Primary>slash")
 ; (gtk_accel_path "<Actions>/new-item/event-new" "<Primary><Shift>a")
